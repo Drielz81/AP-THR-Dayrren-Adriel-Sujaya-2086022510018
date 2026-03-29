@@ -51,7 +51,6 @@ class Okuyasu extends Stand{
 }
 
 class Koichi extends Stand{
-    private int total_vowels = 0;
     Koichi(){
         super("Koichi");
     }
